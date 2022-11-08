@@ -4,9 +4,13 @@
     margin: 0;
 }
 
+/*This section styles the basic background of the page prior to any content being added*/
+
 body {
     background-color: #d9dcd6;
 }
+
+/*This section will style navigation bar typeface, text color, and background*/
 
 .header {
     padding: 20px;
@@ -50,6 +54,9 @@ p {
     font-size: 16px;
 }
 
+/*This section adds and styles the hero image on the main landing page
+This will make the hero image an appropriate size for a standard desktop viewport*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -69,6 +76,9 @@ p {
     margin-left: 25px;
 }
 
+/*This section will style the main content sections' background, typeface, and text color
+this section will also add and place photos in a visually appropriate manner for the main content*/
+
 .content {
     width: 75%;
     display: inline-block;
@@ -86,8 +96,10 @@ p {
     background-color: #2589bd;
 }
 
+/*this section styles the aside and provides background, typeface, and text color*/
+
 .benefit {
-    margin-bottom: 32px;
+    margin-bottom: 30px;
     color: #ffffff;
 }
 
@@ -101,6 +113,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*this section styles the main content section of the page*/
 
 .info-box {
     margin-bottom: 20px;
@@ -119,6 +133,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*this section styles the page credits and footer*/
 
 .footer {
     padding: 30px;
