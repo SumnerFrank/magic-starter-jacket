@@ -21,6 +21,3 @@
 ### THEN I find a concise, descriptive title
 ---
 #### 
-
-<img src="/Users/frank/Desktop/bootcamp/magic-starter-jacket/Develop/assets/images/Screenshot 2022-11-09 at 6.32.46 PM.png">
-<img src="/Users/frank/Desktop/bootcamp/magic-starter-jacket/Develop/assets/images/Screenshot 2022-11-09 at 6.33.15 PM.png">
