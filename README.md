@@ -21,3 +21,5 @@
 ### THEN I find a concise, descriptive title
 ---
 #### 
+<img width="1710" alt="Screenshot 2022-11-09 at 6 32 46 PM" src="https://user-images.githubusercontent.com/115412068/200965867-5ddf7a9a-2f17-4dd3-9659-50544c42d3f5.png">
+<img width="1710" alt="Screenshot 2022-11-09 at 6 33 15 PM" src="https://user-images.githubusercontent.com/115412068/200965872-d95a2a4d-4e3c-4326-a92c-25a7fdacbc8f.png">
